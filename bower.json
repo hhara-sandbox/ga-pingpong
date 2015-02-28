@@ -1,0 +1,8 @@
+{
+  "name": "p5_test",
+  "version": "0.0.0",
+  "devDependencies": {
+    "p5js": "~0.4.2",
+    "underscore": "~1.8.2"
+  }
+}
