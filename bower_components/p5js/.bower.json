@@ -1,0 +1,33 @@
+{
+  "name": "p5.js",
+  "version": "0.4.2",
+  "main": "lib/p5.min.js",
+  "homepage": "http://p5js.org/",
+  "authors": [
+    "Lauren lmccart McCarthy"
+  ],
+  "description": "A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.",
+  "keywords": [
+    "javascript",
+    "p5",
+    "processing"
+  ],
+  "license": "LGPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.4.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.4.2",
+    "commit": "061484a309a8ce0c684b77d0b545fcc552efe12c"
+  },
+  "_source": "git://github.com/lmccart/p5.js.git",
+  "_target": "~0.4.2",
+  "_originalSource": "p5js",
+  "_direct": true
+}
